@@ -11,6 +11,7 @@ Hello custom training<br />
 Learn how to bring your own code to AI Platform, by using a sample app to train an image recognition model.<br />
 Hello structured data<br />
 Use a structured dataset to train an AutoML model.<br />
+reference: https://cloud.google.com/ai-platform-unified/docs/tutorials <br />
 
 ### part2
 The demo video and pdf for assignments: <br />
