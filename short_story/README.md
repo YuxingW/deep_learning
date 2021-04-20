@@ -23,3 +23,5 @@ It includes techniques:
 * Teacher assistant
 * Domain adaptation
 
+
+The short_story.pptx and short_story.mov are the corresponding slides and video introducing this survey.
